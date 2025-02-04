@@ -48,4 +48,8 @@ footer{
         grid-template-columns: 1fr;
     }
     /*display: block; */
+
+    #desktop{
+        display: none;
+    }
 }
