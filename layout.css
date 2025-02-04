@@ -31,3 +31,15 @@ footer{
     grid-area: footer;
     background-color: rgb(199, 140, 254);
 }
+
+@media screen and (max-width: 600px){
+    #container{
+        grid-template-areas: 
+        "header"
+        "main"
+        "nav"
+        "footer"
+        ;
+    }
+    /*display: block; */
+}
