@@ -11,3 +11,9 @@ body{
         background-color: rgb(201, 148, 251);
     }
 }
+
+@media screen and (max-width: 400px){
+    body{
+        background-color: rgb(244, 137, 226);
+    }
+}
