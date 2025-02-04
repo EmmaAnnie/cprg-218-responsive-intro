@@ -23,7 +23,7 @@ main{
 }
 
 #desktop{
-    background-color: rgb(183, 155, 255);
+    background-color: rgb(155, 155, 255);
     padding: 1.4rem;
 }
 
@@ -34,7 +34,7 @@ nav{
 
 footer{
     grid-area: footer;
-    background-color: rgb(165, 158, 250);
+    background-color: rgb(199, 140, 254);
 }
 
 @media screen and (max-width: 600px){
